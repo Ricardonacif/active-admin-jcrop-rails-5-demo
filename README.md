@@ -1,25 +1,5 @@
-# README
+# Just a demo of [Active Admin Jcrop gem](https://github.com/Ricardonacif/active_admin_jcrop) on Rails 5
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I just did this to help [this guy](https://github.com/Ricardonacif/active_admin_jcrop/issues/19).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# active-admin-jcrop-rails-5-demo
+[Demo](https://youtu.be/zlnbAivTqDM).
